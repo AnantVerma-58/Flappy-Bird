@@ -32,7 +32,7 @@ The PPO algorithm is employed to train the agent in the environment. The `reinfo
 
 Evaluate the trained agent's performance using the `evaluate_agent` function. This function runs the agent in the environment for a specified number of episodes.
 
-
+![Flappy-bird](https://github.com/AnantVerma-58/Flappy-Bird/blob/main/Flappy%20Bird.gif)
 ## Saving and Loading Model
 
 The trained model can be saved and loaded using the PyTorch `torch.save` and `torch.load` functions. Example code for saving and loading is provided in the script.
